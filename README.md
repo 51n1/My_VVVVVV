@@ -19,9 +19,9 @@ A Sample Unity Project for learning to make 2D Game with Unity.
 
 Install the required packages by Package Manager.
 
-Refer to the following link about the making story.
+# WebGL Demo
 
-https://51n1.uk/post/howto-make-game-vvvvvv-with-unity2d/page1.html
+https://51n1.uk/post/vvvvvv-webgl-demo.html
 
 # License
 

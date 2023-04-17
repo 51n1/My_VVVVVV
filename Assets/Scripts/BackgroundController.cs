@@ -4,13 +4,7 @@ using UnityEngine;
 
 public class BackgroundController : MonoBehaviour
 {
-    [SerializeField]
-    float scrollSpeed = 0.1f;
-
-    void Start()
-    {
-        
-    }
+    [SerializeField] float scrollSpeed = 0.1f;
 
     void Update()
     {
